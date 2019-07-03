@@ -13,7 +13,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies</h1>
-<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real timescenarios Time scnerios</h1>
+<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real time scenarios also </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -32,6 +32,6 @@
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
-
+<img src="html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
 </body>
 </html>
